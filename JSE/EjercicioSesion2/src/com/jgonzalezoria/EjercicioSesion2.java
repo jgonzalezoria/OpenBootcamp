@@ -17,6 +17,8 @@ public class EjercicioSesion2 {
     }
 
     public static double precioIVA(double precio){
-        return precio + precio * 0.21;
+        double precioMasIva = precio + precio * 0.21;
+        return precioMasIva;
+
     }
 }
