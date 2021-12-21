@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f9bcff3-69be-4110-b1af-b7ed90408264" name="Changes" comment="Ejercicios Sesion 7-8-9" />
+    <list default="true" id="4f9bcff3-69be-4110-b1af-b7ed90408264" name="Changes" comment="Ejercicios Sesion 7-8-9">
+      <change beforePath="$PROJECT_DIR$/../../Spring/EjercicioSesion4-5-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/EjercicioSesion4-5-6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/EjerciciosSesion1-2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/EjerciciosSesion1-2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/EjerciciosSesion1-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/EjerciciosSesion1-2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

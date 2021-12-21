@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d40a93a3-93ec-4f6e-b24c-6fff598271bd" name="Changes" comment="Ejercicio Sesion 1-2 Spring">
-      <change beforePath="$PROJECT_DIR$/../EjercicioSesion3/src/main/java/com/jgonzalezoria/EjercicioSesion3/Ficheros/AlumnoRepository.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/../EjercicioSesion3/src/main/java/com/jgonzalezoria/EjercicioSesion3/Ficheros/AlumnoRepository.mv.db" afterDir="false" />
+    <list default="true" id="d40a93a3-93ec-4f6e-b24c-6fff598271bd" name="Changes" comment="Merge remote-tracking branch 'OpenBootcamp/master'">
+      <change beforePath="$PROJECT_DIR$/../../../Java-Avanzado/java_avanzado" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-Avanzado/java_avanzado" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjercicioSesion4-5-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjercicioSesion4-5-6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/spring" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring/spring" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../jse/java_basico" beforeDir="false" afterPath="$PROJECT_DIR$/../../../jse/java_basico" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +41,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EjercicioSesion3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -59,6 +65,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\jgonz\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d40a93a3-93ec-4f6e-b24c-6fff598271bd" name="Changes" comment="" />
@@ -81,7 +90,49 @@
       <option name="project" value="LOCAL" />
       <updated>1640028149804</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ejercicio Sesion 1-2 Spring">
+      <created>1640086453992</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640086453992</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ejercicio Sesion 1-2 Spring">
+      <created>1640086926613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640086926613</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ejercicio Sesion 1-2 Spring">
+      <created>1640087005362</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1640087005362</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'OpenBootcamp/master'">
+      <created>1640087069693</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1640087069693</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'OpenBootcamp/master'">
+      <created>1640087129662</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1640087129662</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'OpenBootcamp/master'">
+      <created>1640087998863</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1640087998863</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +148,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio Sesion 1-2 Spring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio Sesion 1-2 Spring" />
+    <MESSAGE value="Merge remote-tracking branch 'OpenBootcamp/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'OpenBootcamp/master'" />
   </component>
 </project>
