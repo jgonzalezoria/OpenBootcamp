@@ -6,9 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="d40a93a3-93ec-4f6e-b24c-6fff598271bd" name="Changes" comment="Merge remote-tracking branch 'OpenBootcamp/master'">
       <change beforePath="$PROJECT_DIR$/../../../Java-Avanzado/java_avanzado" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-Avanzado/java_avanzado" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjercicioSesion4-5-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjercicioSesion4-5-6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.." beforeDir="false" afterPath="$PROJECT_DIR$/../.." afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/ob-rest-datajpa/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/ob-rest-datajpa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring/ob-rest-datajpa/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/ob-rest-datajpa/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/ob-rest-datajpa/target/classes/com/jgonzalezoria/obrestdatajpa/ObRestDatajpaApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/ob-rest-datajpa/target/classes/com/jgonzalezoria/obrestdatajpa/config/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/ob-rest-datajpa/target/classes/com/jgonzalezoria/obrestdatajpa/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/ob-rest-datajpa/target/classes/com/jgonzalezoria/obrestdatajpa/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/ob-rest-datajpa/target/classes/com/jgonzalezoria/obrestdatajpa/entities/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/ob-rest-datajpa/target/classes/com/jgonzalezoria/obrestdatajpa/repository/BookRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/ob-rest-datajpa/target/test-classes/com/jgonzalezoria/obrestdatajpa/ObRestDatajpaApplicationTests.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Spring/spring" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring/spring" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../jse/java_basico" beforeDir="false" afterPath="$PROJECT_DIR$/../../../jse/java_basico" afterDir="false" />
     </list>
