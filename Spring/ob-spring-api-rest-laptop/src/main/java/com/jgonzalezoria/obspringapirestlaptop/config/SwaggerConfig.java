@@ -1,4 +1,4 @@
-package com.jgonzalezoria.obrestdatajpa.config;
+package com.jgonzalezoria.obspringapirestlaptop.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -32,8 +32,8 @@ public class SwaggerConfig {
     }
 
     private ApiInfo apiDetails(){
-        return new ApiInfo("Spring Boot Books API REST",
-                "Library API rest docs",
+        return new ApiInfo("Spring Boot Laptops API REST",
+                "Libray API rest docs",
                 "1.0",
                 "http://www.google.com",
                 new Contact("José Alberto", "http://www.google.com", "jgonzalezoria@gmail.com"),
@@ -41,5 +41,7 @@ public class SwaggerConfig {
                 "http://www.google.com",
                 Collections.emptyList());
     }
+
+
 
 }

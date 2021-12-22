@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ab8c31b-d64d-416a-949e-246423e0b841" name="Changes" comment="Ejercicios Spring">
-      <change beforePath="$PROJECT_DIR$/../EjerciciosSesion1-2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosSesion1-2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjerciciosSesion1-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosSesion1-2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ob-spring-api-rest-laptop/src/main/java/com/jgonzalezoria/obspringapirestlaptop/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ob-spring-api-rest-laptop/src/main/java/com/jgonzalezoria/obspringapirestlaptop/controller/LaptopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ob-spring-api-rest-laptop/src/main/java/com/jgonzalezoria/obspringapirestlaptop/entities/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ob-spring-api-rest-laptop/src/main/java/com/jgonzalezoria/obspringapirestlaptop/repository/LaptopRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSE/EjercicioSesion5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSE/EjercicioSesion5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ob-rest-datajpa/src/main/java/com/jgonzalezoria/obrestdatajpa/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ob-rest-datajpa/src/main/java/com/jgonzalezoria/obrestdatajpa/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ob-rest-datajpa/src/main/java/com/jgonzalezoria/obrestdatajpa/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ob-rest-datajpa/src/main/java/com/jgonzalezoria/obrestdatajpa/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ob-rest-datajpa/src/main/java/com/jgonzalezoria/obrestdatajpa/entities/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ob-rest-datajpa/src/main/java/com/jgonzalezoria/obrestdatajpa/entities/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ob-rest-datajpa/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ob-rest-datajpa/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ob-rest-datajpa/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ob-rest-datajpa/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ob-rest-datajpa/target/classes/com/jgonzalezoria/obrestdatajpa/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ob-rest-datajpa/target/classes/com/jgonzalezoria/obrestdatajpa/config/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ob-rest-datajpa/target/classes/com/jgonzalezoria/obrestdatajpa/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ob-rest-datajpa/target/classes/com/jgonzalezoria/obrestdatajpa/controller/BookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ob-rest-datajpa/target/classes/com/jgonzalezoria/obrestdatajpa/entities/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ob-rest-datajpa/target/classes/com/jgonzalezoria/obrestdatajpa/entities/Book.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
